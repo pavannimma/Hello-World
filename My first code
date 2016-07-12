@@ -1,0 +1,5 @@
+#To print even numbers and odd numbers
+x = [0,10,2]
+y = [1,10,2]
+print (x)
+print (y)
